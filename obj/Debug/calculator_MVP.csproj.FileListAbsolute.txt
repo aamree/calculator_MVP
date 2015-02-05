@@ -1,0 +1,13 @@
+C:\Users\Адлет\documents\visual studio 2013\Projects\csharp12\calculator_MVP\bin\Debug\calculator_MVP.exe.config
+C:\Users\Адлет\documents\visual studio 2013\Projects\csharp12\calculator_MVP\bin\Debug\calculator_MVP.exe
+C:\Users\Адлет\documents\visual studio 2013\Projects\csharp12\calculator_MVP\bin\Debug\calculator_MVP.pdb
+C:\Users\Адлет\documents\visual studio 2013\Projects\csharp12\calculator_MVP\obj\Debug\calculator_MVP.csprojResolveAssemblyReference.cache
+C:\Users\Адлет\documents\visual studio 2013\Projects\csharp12\calculator_MVP\obj\Debug\MainWindow.baml
+C:\Users\Адлет\documents\visual studio 2013\Projects\csharp12\calculator_MVP\obj\Debug\MainWindow.g.cs
+C:\Users\Адлет\documents\visual studio 2013\Projects\csharp12\calculator_MVP\obj\Debug\App.g.cs
+C:\Users\Адлет\documents\visual studio 2013\Projects\csharp12\calculator_MVP\obj\Debug\calculator_MVP_MarkupCompile.cache
+C:\Users\Адлет\documents\visual studio 2013\Projects\csharp12\calculator_MVP\obj\Debug\calculator_MVP.g.resources
+C:\Users\Адлет\documents\visual studio 2013\Projects\csharp12\calculator_MVP\obj\Debug\calculator_MVP.Properties.Resources.resources
+C:\Users\Адлет\documents\visual studio 2013\Projects\csharp12\calculator_MVP\obj\Debug\calculator_MVP.csproj.GenerateResource.Cache
+C:\Users\Адлет\documents\visual studio 2013\Projects\csharp12\calculator_MVP\obj\Debug\calculator_MVP.exe
+C:\Users\Адлет\documents\visual studio 2013\Projects\csharp12\calculator_MVP\obj\Debug\calculator_MVP.pdb
